@@ -1,0 +1,238 @@
+@media screen and (max-width: 768px) {
+  /* Header Section  */
+
+  #header {
+  }
+  #header .content {
+    display: inline-block;
+    padding: 16px 0px;
+  }
+
+  .header_address {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 0px;
+  }
+
+  #header img {
+    height: 42px;
+    margin: 10px 0px;
+  }
+
+  .header_address i {
+    margin: 1px;
+  }
+
+  .header_icon {
+    display: none;
+  }
+
+  .mobile_info {
+    display: none;
+  }
+
+  /* Header Section End  */
+
+  /* Navbar Section  */
+
+  #navbar .content {
+    padding: 0px;
+    background: black;
+    margin: 0px;
+    height: 54px;
+    overflow: hidden;
+  }
+
+  .parent_ul {
+    display: inline-block;
+    width: fit-content;
+    padding: 6px 0px;
+    font-size: 12px;
+    margin: 0px 6px;
+    text-align: justify;
+    transition: ease-in-out 0.6s;
+    transform: translateY(-280px);
+  }
+
+  .parent_ul li {
+    padding: 10px 0px;
+  }
+
+  .book_services {
+    display: none;
+  }
+
+  .navbar_icons {
+    display: inline;
+    font-size: 32px;
+  }
+
+  .fa-xmark {
+    visibility: hidden;
+  }
+
+  .navbar_icons i {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: white;
+  }
+
+  /* Navbar Section End  */
+
+  /* computer-gedget  */
+
+  #computer-gedget {
+    background: url(assest/images/Surfacefamilyhero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 40px 0px;
+  }
+  #computer-gedget .content {
+    text-align: left;
+    margin: 0px 0px;
+  }
+
+  /* computer-gedget End  */
+
+  /* About Section  */
+
+  #about .content {
+    padding: 60px 20px;
+    color: #3c3950;
+    display: block;
+    text-align: center;
+  }
+
+  #about .content img {
+    display: none;
+  }
+
+  /* About Section End */
+
+  /* Service Section  */
+
+  #service {
+    padding: 60px 0px;
+    background: #f0f3f2;
+  }
+
+  #service .content {
+    color: #3c3950;
+    padding: 0px 20px;
+  }
+
+  #service .content .info {
+    margin: 0px;
+  }
+
+  .cards {
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  /* Service Section End  */
+
+  /* Why Choose Us Section  */
+
+  #choose {
+    padding: 100px 20px;
+    margin: 0px;
+  }
+
+  #choose .content {
+    text-align: center;
+  }
+
+  .choose_info {
+    display: inline-block;
+    width: 100%;
+  }
+
+  .choose_info img {
+    width: 100%;
+  }
+
+  .choosecards {
+    width: 100%;
+    margin: 20px 0px;
+  }
+
+  .choose_btn {
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    position: relative;
+  }
+
+  /* Why Choose Us Section End */
+
+  /* Counter Section  */
+
+  #counter {
+  }
+  #counter .content {
+    display: flex;
+    justify-content: center;
+  }
+
+  .main_counter {
+    display: inline-block;
+  }
+
+  .counter-box {
+    width: auto;
+    padding: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.5s;
+  }
+
+  /* Counter Section End  */
+
+  /* Customer section  */
+
+  #customer {
+    padding: 100px 0px;
+    margin: 0px 0px;
+  }
+
+  #customer .content {
+    text-align: center;
+    display: block;
+  }
+
+  .carousel_info {
+    color: white;
+    padding: 0px 20px;
+  }
+
+  /* Customer section End */
+
+  /* Conact Section  */
+
+  #contact {
+  }
+
+  #contact .content {
+    text-align: center;
+    margin: 0px 0px;
+  }
+
+  /* Conact Section End  */
+}
+
+
+/* Scroll Icon  */
+
+.scroll-icon{
+  /* position: fixed; */
+  /* left: 96%;
+  bottom: 0px;
+  right: 0px;
+  font-size: 36px; */
+}
+
+.c
